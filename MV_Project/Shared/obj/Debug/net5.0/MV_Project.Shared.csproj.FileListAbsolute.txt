@@ -1,0 +1,12 @@
+C:\Users\Vlad\source\repos\MV_Project\MV_Project\Shared\bin\Debug\net5.0\MV_Project.Shared.deps.json
+C:\Users\Vlad\source\repos\MV_Project\MV_Project\Shared\bin\Debug\net5.0\MV_Project.Shared.dll
+C:\Users\Vlad\source\repos\MV_Project\MV_Project\Shared\bin\Debug\net5.0\ref\MV_Project.Shared.dll
+C:\Users\Vlad\source\repos\MV_Project\MV_Project\Shared\bin\Debug\net5.0\MV_Project.Shared.pdb
+C:\Users\Vlad\source\repos\MV_Project\MV_Project\Shared\obj\Debug\net5.0\MV_Project.Shared.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\MV_Project\MV_Project\Shared\obj\Debug\net5.0\MV_Project.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\MV_Project\MV_Project\Shared\obj\Debug\net5.0\MV_Project.Shared.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\MV_Project\MV_Project\Shared\obj\Debug\net5.0\MV_Project.Shared.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\MV_Project\MV_Project\Shared\obj\Debug\net5.0\MV_Project.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\MV_Project\MV_Project\Shared\obj\Debug\net5.0\MV_Project.Shared.dll
+C:\Users\Vlad\source\repos\MV_Project\MV_Project\Shared\obj\Debug\net5.0\ref\MV_Project.Shared.dll
+C:\Users\Vlad\source\repos\MV_Project\MV_Project\Shared\obj\Debug\net5.0\MV_Project.Shared.pdb
